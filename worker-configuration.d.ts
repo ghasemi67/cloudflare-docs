@@ -9,3 +9,4 @@ declare module "*/_redirects" {
 	const value: string;
 	export default value;
 }
+
